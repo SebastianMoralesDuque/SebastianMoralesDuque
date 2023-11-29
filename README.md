@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Morales Duque</h1>
 <h3 align="center">A passionate fullstack developer from CO</h3>
 
-- 🌱 I’m currently learning **Typescript Express**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://sebastianmoralesduque.github.io/sebas/](https://sebastianmoralesduque.github.io/sebas/)
 
