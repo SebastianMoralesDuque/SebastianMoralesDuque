@@ -1,8 +1,5 @@
 <div align="center">
-  <!-- Banner Minimalista (Opcional: puedes cambiar el color o texto) -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sebastian%20Morales%20Duque&fontSize=50&animation=fadeIn" width="100%" />
-
-  <h3>🚀 Senior Fullstack Developer | Backend Architect | AI Enthusiast</h3>
+  <h3>🚀 Fullstack Developer | Backend Architect | AI Enthusiast</h3>
   
   <p align="center">
     Especialista en la construcción de ecosistemas digitales de alto rendimiento. 
@@ -19,7 +16,7 @@
 
 ### 👨‍💻 Perfil Profesional
 
-Soy un desarrollador Senior apasionado por la arquitectura de software y la eficiencia operativa. Mi enfoque no es solo escribir código, sino diseñar soluciones que resuelvan problemas de negocio a escala. Actualmente, centro mis esfuerzos en la convergencia entre el desarrollo web tradicional y las capacidades de la **Inteligencia Artificial Generativa**.
+Soy un desarrollador apasionado por la arquitectura de software y la eficiencia operativa. Mi enfoque no es solo escribir código, sino diseñar soluciones que resuelvan problemas de negocio a escala. Actualmente, centro mis esfuerzos en la convergencia entre el desarrollo web tradicional y las capacidades de la **Inteligencia Artificial Generativa**.
 
 - 🛠️ **Backend:** Arquitecturas resilientes con Python/Django, optimización de DB y microservicios.
 - 🤖 **AI & Data:** Implementación de modelos LLM (OpenAI, Anthropic), integración de **RAG** (Retrieval-Augmented Generation) y uso de bases de datos vectoriales.
@@ -76,7 +73,6 @@ Mi trabajo se rige por estándares que garantizan la longevidad del producto:
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianmoralesduque&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=555" alt="Estadísticas de Sebastian" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmoralesduque&theme=transparent&hide_border=true&sideLabelColor=2563EB&ring=2563EB&stroke=2563EB&currStreakLabel=2563EB" alt="Racha de GitHub" width="48%" />
 </div>
 
