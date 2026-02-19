@@ -1,26 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sebastian Morales Duque</h1>
-<h3 align="center">A passionate fullstack developer from CO</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Sebastian Morales Duque</h1>
+  <h3>Senior Fullstack Developer | Backend Architect & DevOps Enthusiast 🇨🇴</h3>
+  <p>
+    Designing and building scalable, high-performance web applications using <b>Django REST Framework</b>, <b>React</b>, and robust <b>Cloud Infrastructure</b>.
+  </p>
 
-- 🌱 I’m currently learning  **React Native**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas-dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white)](https://sebastianmorales.onrender.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheviotin200@gmail.com)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://sebastianmoralesduque.github.io/sebas/](https://sebastianmorales.onrender.com)
+---
 
-- 📫 How to reach me **cheviotin200@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebas-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebas-dev" height="30" width="40" /></a>
-</p>
+As a Senior Developer, I focus on the entire lifecycle of software development. From designing resilient database models and creating efficient RESTful APIs, to setting up automated CI/CD pipelines and crafting intuitive frontend experiences.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- ⚙️ **Core Focus:** System Architecture, API Design (DRF/GraphQL), and Cloud Deployments.
+- 🔭 **Currently Building:** Scalable microservices and highly interactive React applications.
+- 🌱 **Currently Exploring:** Extending my ecosystem knowledge into mobile with **React Native**.
+- 💬 **Ask me about:** Python, Django performance optimization, React state management, and Dockerizing applications.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianmoralesduque&show_icons=true&locale=en&layout=compact" alt="sebastianmoralesduque" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmoralesduque&" alt="sebastianmoralesduque" /></p>
+### 🛠️ Tech Stack & Architecture
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianmoralesduque&show_icons=true&locale=en&layout=compact" alt="sebastianmoralesduque" /></p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Backend & APIs</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,django,graphql&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,redux,tailwind&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <b>DevOps & Cloud</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,aws,gcp&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <b>Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmoralesduque&show_icons=true&locale=en" alt="sebastianmoralesduque" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmoralesduque&" alt="sebastianmoralesduque" /></p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianmoralesduque&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="Sebastian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianmoralesduque&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmoralesduque&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
