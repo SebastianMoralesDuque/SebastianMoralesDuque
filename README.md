@@ -1,8 +1,13 @@
 <div align="center">
-  <h1>¡Hola 👋! Soy Sebastian Morales Duque</h1>
-  <h3>Desarrollador Fullstack Senior | Arquitectura Backend y DevOps</h3>
-  <p>
-    Diseño y construcción de aplicaciones web escalables, seguras y de alto rendimiento utilizando <b>Django REST Framework</b>, <b>React</b> y robustas arquitecturas en la <b>Nube</b>.
+  <!-- Banner Minimalista (Opcional: puedes cambiar el color o texto) -->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sebastian%20Morales%20Duque&fontSize=50&animation=fadeIn" width="100%" />
+
+  <h3>🚀 Senior Fullstack Developer | Backend Architect | AI Enthusiast</h3>
+  
+  <p align="center">
+    Especialista en la construcción de ecosistemas digitales de alto rendimiento. 
+    <br />
+    Combinando la robustez de <b>Django</b> con la agilidad de <b>React</b> y el poder de la <b>Inteligencia Artificial</b>.
   </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas-dev)
@@ -12,25 +17,23 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Perfil Profesional
 
-Como desarrollador con experiencia Senior, mi enfoque abarca todo el ciclo de vida del producto de software. Me especializo en traducir reglas de negocio complejas en arquitecturas eficientes, desde el modelado resiliente de bases de datos y APIs RESTful/GraphQL, hasta la entrega de interfaces de usuario altamente interactivas.
+Soy un desarrollador Senior apasionado por la arquitectura de software y la eficiencia operativa. Mi enfoque no es solo escribir código, sino diseñar soluciones que resuelvan problemas de negocio a escala. Actualmente, centro mis esfuerzos en la convergencia entre el desarrollo web tradicional y las capacidades de la **Inteligencia Artificial Generativa**.
 
-- ⚙️ **Enfoque principal:** Arquitectura de Sistemas, Diseño de APIs, y optimización de despliegues en la nube.
-- 🔭 **Construyendo actualmente:** Ecosistemas basados en microservicios y aplicaciones SPA de alta concurrencia.
-- 🌱 **Explorando:** Llevando mi conocimiento del ecosistema web hacia el desarrollo móvil con **React Native**.
-- 💬 **Pregúntame sobre:** Patrones de diseño en Python/Django, optimización de queries SQL, manejo de estado global en React y Dockerización.
+- 🛠️ **Backend:** Arquitecturas resilientes con Python/Django, optimización de DB y microservicios.
+- 🤖 **AI & Data:** Implementación de modelos LLM (OpenAI, Anthropic), integración de **RAG** (Retrieval-Augmented Generation) y uso de bases de datos vectoriales.
+- ☁️ **Cloud:** Especialista en **Google Cloud Platform (GCP)**, priorizando soluciones serverless y contenedores.
+- 📱 **Mobile:** Expandiendo el stack hacia aplicaciones multiplataforma con **React Native**.
 
 ---
 
-### 💡 Metodología y Buenas Prácticas
+### 🧠 Foco en Inteligencia Artificial
 
-Más allá del código, me enfoco en la calidad, mantenibilidad y el trabajo en equipo:
-
-- **Desarrollo:** Aplicación de principios SOLID, Clean Code, DRY y refactorización continua.
-- **Arquitectura:** Separación de responsabilidades, arquitecturas orientadas a eventos (Event-Driven) y escalabilidad horizontal.
-- **Bases de Datos:** Optimización de consultas complejas, uso eficiente de índices, y modelado tanto en entornos relacionales (PostgreSQL) como NoSQL (MongoDB).
-- **Cultura de Ingeniería:** Revisiones de código (Code Reviews) rigurosas, documentación técnica clara y mentoría a desarrolladores de menor experiencia.
+No solo desarrollo software, lo hago inteligente. Mi experiencia con IA incluye:
+- **Agentes Autónomos:** Desarrollo de flujos de trabajo utilizando frameworks como LangChain.
+- **Optimización de Procesos:** Automatización de tareas complejas mediante procesamiento de lenguaje natural (NLP).
+- **Vector Search:** Implementación de búsquedas semánticas para mejorar la experiencia de usuario.
 
 ---
 
@@ -39,28 +42,45 @@ Más allá del código, me enfoco en la calidad, mantenibilidad y el trabajo en 
 <table>
   <tr>
     <td align="center" width="25%">
-      <b>Backend y APIs</b><br><br>
-      <img src="https://skillicons.dev/icons?i=python,django,graphql&perline=3" />
+      <b>Backend & AI</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,django,graphql,fastapi&perline=2" />
     </td>
     <td align="center" width="25%">
       <b>Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=react,redux,tailwind&perline=3" />
+      <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nextjs&perline=2" />
     </td>
     <td align="center" width="25%">
-      <b>DevOps y Nube</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,aws,gcp&perline=3" />
+      <b>DevOps & Cloud</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux&perline=2" />
     </td>
     <td align="center" width="25%">
-      <b>Bases de Datos</b><br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
+      <b>Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=2" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 💡 Metodología de Ingeniería
+
+Mi trabajo se rige por estándares que garantizan la longevidad del producto:
+
+*   **Arquitectura de Software:** Implementación de Clean Architecture y Event-Driven Design.
+*   **Calidad de Código:** Aplicación rigurosa de principios SOLID, DRY y KISS.
+*   **Cloud Native:** Orquestación con Docker y despliegues optimizados en infraestructura de **Google Cloud (App Engine, Cloud Run, GKE)**.
+*   **Liderazgo Técnico:** Mentoría basada en Code Reviews constructivos y documentación técnica bajo el estándar C4 Model.
+
+---
+
+### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmoralesduque&theme=transparent&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianmoralesduque&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=555" alt="Estadísticas de Sebastian" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmoralesduque&theme=transparent&hide_border=true&sideLabelColor=2563EB&ring=2563EB&stroke=2563EB&currStreakLabel=2563EB" alt="Racha de GitHub" width="48%" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/Keep_Coding-000?style=for-the-badge&logo=codeforces&logoColor=white" />
 </div>
