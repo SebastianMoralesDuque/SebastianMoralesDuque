@@ -22,7 +22,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: sebastianmoralesduque
           MAX_REPOS: 10
-          SETTING_JSON: '{"type":"gitblock"}'
 
       - name: Commit and push
         run: |
