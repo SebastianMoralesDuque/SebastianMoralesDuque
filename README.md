@@ -122,21 +122,13 @@ class SebastianMorales:
 
 ---
 
-## 🏔️ Contribuciones en 3D
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contributions"/>
-</div>
-
----
-
-## 🟡 Pac-Man devours my commits
+## 🐍 Snake Animation
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-pacman-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-pacman.svg"/>
-    <img alt="Pacman animation" src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-pacman-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
