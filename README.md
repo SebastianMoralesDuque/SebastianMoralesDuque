@@ -142,14 +142,6 @@ class SebastianMorales:
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sebastianmoralesduque&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
-</div>
-
----
-
 ## 📈 Actividad
 
 <div align="center">
