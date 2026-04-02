@@ -26,7 +26,6 @@
 ```python
 class SebastianMorales:
     role        = "Fullstack Developer & Backend Architect"
-    location    = "Colombia 🇨🇴"
     focus       = ["AI-Powered Systems", "Cloud Architecture", "High-Performance APIs"]
 
     backend     = ["Python", "Django", "FastAPI", "GraphQL"]
@@ -122,16 +121,6 @@ class SebastianMorales:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-green.svg"/>
     <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contributions"/>
   </picture>
-</div>
-
----
-
-## 📊 GitHub Stats & Hábitos
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/generated/metrics.svg" width="85%" alt="Metrics"/>
-
 </div>
 
 ---
