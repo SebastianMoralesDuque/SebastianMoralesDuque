@@ -117,7 +117,11 @@ class SebastianMorales:
 ## 🏔️ Contribuciones 3D
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contributions"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-night-view.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-gitblock.svg"/>
+    <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contributions"/>
+  </picture>
 </div>
 
 ---
