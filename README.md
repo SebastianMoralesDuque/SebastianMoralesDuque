@@ -122,6 +122,22 @@ class SebastianMorales:
 
 ---
 
+## 📈 Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastianmoralesduque&bg_color=0d1117&color=2563EB&line=2563EB&point=ffffff&area=true&area_color=1e3a5f&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏔️ Contribuciones 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contributions"/>
+</div>
+
+---
+
 ## 🐍 Snake Animation
 
 <div align="center">
@@ -130,14 +146,6 @@ class SebastianMorales:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake.svg"/>
     <img alt="Snake animation" src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake-dark.svg" width="100%"/>
   </picture>
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastianmoralesduque&bg_color=0d1117&color=2563EB&line=2563EB&point=ffffff&area=true&area_color=1e3a5f&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
