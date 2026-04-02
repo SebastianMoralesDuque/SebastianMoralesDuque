@@ -12,6 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
 
     steps:
       - name: Generate Pac-Man (light + dark)
