@@ -122,16 +122,6 @@ class SebastianMorales:
 
 ---
 
-## 📊 GitHub Stats & Hábitos
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/generated/metrics.svg" width="100%" alt="Metrics"/>
-
-</div>
-
----
-
 ## 🗓️ Calendario Isométrico
 
 <div align="center">
