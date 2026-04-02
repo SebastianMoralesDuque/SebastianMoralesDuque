@@ -118,9 +118,9 @@ class SebastianMorales:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-night-view.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-gitblock.svg"/>
-    <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contributions"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-night-green.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-green.svg"/>
+    <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contributions"/>
   </picture>
 </div>
 
