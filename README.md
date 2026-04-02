@@ -28,15 +28,15 @@ class SebastianMorales:
     role        = "Fullstack Developer & Backend Architect"
     location    = "Colombia 🇨🇴"
     focus       = ["AI-Powered Systems", "Cloud Architecture", "High-Performance APIs"]
-    
+
     backend     = ["Python", "Django", "FastAPI", "GraphQL"]
     frontend    = ["React", "Next.js", "Redux", "Tailwind CSS"]
     ai_stack    = ["OpenAI", "Anthropic", "LangChain", "RAG", "Vector DBs"]
     cloud       = ["GCP", "Cloud Run", "App Engine", "GKE", "Docker"]
     databases   = ["PostgreSQL", "MongoDB", "Redis", "MySQL"]
-    
+
     philosophy  = "No solo escribo código — diseño soluciones que resuelven problemas a escala."
-    
+
     def currently_doing(self):
         return "Convergencia entre desarrollo web y GenAI 🤖"
 ```
@@ -102,37 +102,50 @@ class SebastianMorales:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Hábitos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sebastianmoralesduque&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=e2e8f0&ring_color=2563EB&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmoralesduque&theme=transparent&hide_border=true&sideLabelColor=2563EB&ring=2563EB&stroke=2563EB&currStreakLabel=2563EB&fire=2563EB" width="48%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmoralesduque&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=e2e8f0&langs_count=8" width="40%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/generated/metrics.svg" width="100%" alt="Metrics"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🗓️ Calendario Isométrico
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sebastianmoralesduque&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+
+<img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/generated/metrics.isocalendar.svg" width="70%" alt="Isometric Calendar"/>
+
 </div>
 
 ---
 
-## 🐍 Contribuciones
+## 🏔️ Contribuciones en 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contributions"/>
+</div>
+
+---
+
+## 🟡 Pac-Man devours my commits
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-pacman-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-pacman.svg"/>
+    <img alt="Pacman animation" src="https://raw.githubusercontent.com/sebastianmoralesduque/sebastianmoralesduque/output/github-pacman-dark.svg" width="100%"/>
   </picture>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sebastianmoralesduque&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 </div>
 
 ---
