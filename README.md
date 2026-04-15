@@ -8,7 +8,7 @@
 <a href="https://portafolio.sebastianmorales.sbs/">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="mailto:cheviotin200@gmail.com">
+<a href="mailto:developer@sebastianmorales.sbs">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=sebastianmoralesduque&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
