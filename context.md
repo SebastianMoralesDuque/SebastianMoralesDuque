@@ -75,7 +75,7 @@ git checkout output
 ls -la
 ```
 
-## Notas para Otros Agentes
+## Notas para Otros Agentes.
 
 1. **Permisos:** El token tiene todos los permisos necesarios para modificar el repositorio
 2. **Snake animation:** Los SVGs se generan en la rama `output`, no en `main`
